@@ -3,7 +3,7 @@
 
 
 
-<img src="./silvio.jpg.JPG" alt="exemplo imagem">
+<img src="./silvio.jpg.JPG" width="30%"      alt="exemplo imagem">
 
 > Este projeto tem por objetivo apresentar informações sobre Silvio.
 
