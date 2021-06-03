@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 
-<img src="./silvio.jpg.JPG" width="80%"      alt="exemplo imagem">
+<img src="./silvio.JPG" width="80%"      alt="exemplo imagem">
 
 > Este projeto tem por objetivo apresentar informações sobre Silvio.
 
